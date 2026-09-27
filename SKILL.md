@@ -95,7 +95,13 @@ license: See LICENSE.md - free for open-source & personal use; commercial
    改完之后,逐条核对你动过的地方有没有写出 AI 的句式。提炼自
    Wikipedia "Signs of AI writing"(经 blader/humanizer,MIT),
    针对中文写作适配。
+   
+## 输出格式
 
+改完之后,给全文加一个吸引人的标题(不是原主题的平淡复述),
+正文按内容分成几个小节,每个小节标序号和一个具体的小标题,
+不要留成一整段不分节的文字。小标题要说清这一节讲的是什么,
+不要用装饰性的表情符号或箭头。
 顺序固定:先原理后检查。跳过原理直接拿清单扫全文是本末倒置,
 会把作者的手迹当成待修的瑕疵。
 
